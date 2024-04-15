@@ -169,5 +169,8 @@
  ![image](https://github.com/NitheshKumar-B/EXP-1/assets/161724980/e24ae5e1-efa8-47a5-aac8-75b721b18422)
 # Elaborated Circuit Diagram
 ![encoder design](https://github.com/NitheshKumar-B/EXP-1/assets/161724980/79532a11-43a1-4153-9eea-3b6df89c5e83)
+ # OUTPUT
+ <img width="960" alt="encoder output " src="https://github.com/Vijay27Aravind/Experiment-1/assets/165696823/ac573f78-60d4-42da-b10b-5cc61782e8b4">
+
  ## RESULT
    #### Thus the Encoder  program is studied and simulated using the software successfully
